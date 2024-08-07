@@ -1,4 +1,4 @@
-RedLionfishDeconv
+redlionfish
 psfmodels
 scikit-image
 tifffile
